@@ -1,3 +1,8 @@
 #!/bin/bash
+#include <string>
 console.log(java.util.Map.class)
+int a = 3;
+printf("this int val is %d",a);
+
+
 
